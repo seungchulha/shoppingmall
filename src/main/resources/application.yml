@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://localhost:3306/shoppingmall?serverTimezone=Asia/Seoul
+    username: alaxhenry
+    password: 1234
